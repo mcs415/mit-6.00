@@ -1,0 +1,5 @@
+McDiophantine Selling McNuggets
+x^n+y^n=z^n
+6a+9b+20c=n
+// that would be the greedy algorithm
+show that it is possible to buy 56, 57, ... , 65
